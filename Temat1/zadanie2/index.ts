@@ -24,6 +24,7 @@ function logPerson(person: Person) {
 
 function filterPersons(persons: Person[], criteria: any): Person[] {
     // TODO: zaimplementować funkcję, która przefiltruje tablicę persons za pomocą predykatu criteria
+    return null;
 }
 
 // TODO:
